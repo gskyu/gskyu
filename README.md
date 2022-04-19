@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gskyu
 - 👀 I’m interested dotnet, blazor, go, azure, aws
-- 🌱 I’m currently go
+- 🌱 I’m currently learning go
 - 💞️ I’m looking to collaborate on anything that is cloud related
 - 📫 How to reach me: by email :)
 
